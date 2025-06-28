@@ -32,6 +32,13 @@ HOUSE and Alpha and Numbers patterns
   *         *
     * * * *
 
+alpha_pattern.py (Output)
+        **  
+*     * **  
+  * *   **  
+  * *   **  
+*     * **  
+        **  
 
     HOUSE_Pattern.py (Output)
 
